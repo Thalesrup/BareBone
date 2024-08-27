@@ -1,0 +1,16 @@
+{
+    "name": "phales/barebone",
+    "type": "false",
+    "autoload": {
+        "psr-4": {
+            "BareBone\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thales Ruppenthal",
+            "email": "thales.rup@gmail.com"
+        }
+    ],
+    "require": {}
+}
